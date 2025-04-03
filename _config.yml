@@ -5,9 +5,8 @@ description: >
   Sioryn willett's test site.
 baseurl: "/example"
 url: "http://sin-willett.github.io" # the base hostname & protocol for your site
-twitter_username: ""
-github_username:  SIN-Willett
-
+twitter_username: "sioryn"
+github_username:  "SIN-Willett"
 theme: jekyll-theme-minimal
 
 # Build settings
