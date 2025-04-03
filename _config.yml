@@ -8,6 +8,8 @@ url: "http://sin-willett.github.io" # the base hostname & protocol for your site
 twitter_username: ""
 github_username:  SIN-Willett
 
+theme: jekyll-theme-minimal
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
