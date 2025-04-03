@@ -3,7 +3,7 @@ title: Sioryn Willett
 email: sinwillett@gmail.com
 description: > 
   Sioryn willett's test site.
-baseurl: "/"
+baseurl: "/test-pages"
 url: "http://sin-willett.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-minimal
 
